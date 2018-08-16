@@ -1,4 +1,4 @@
-# LMS Postgrest
+# Postgrest
 A thin API client on top of Postgres.
 
 # About
